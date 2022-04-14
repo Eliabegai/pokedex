@@ -2,4 +2,4 @@
 Projeto mapadev week
 Primeiro projeto
 
-Link: 
+Link: https://eliabegai.github.io/pokedex/
